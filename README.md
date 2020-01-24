@@ -1,7 +1,7 @@
 ## Adafruit MLX90640 IR Thermal Camera Breakout PCB
 
 <a href="http://www.adafruit.com/products/4407"><img src="assets/4407.jpg?raw=true" width="500px"><br/>
-Click here to purchase one from the Adafruit shop</a>
+Click here to purchase one from the Adafruit shop</a><br/>
 <a href="http://www.adafruit.com/products/4469"><img src="assets/4469.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
